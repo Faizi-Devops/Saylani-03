@@ -1,0 +1,295 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.A{
+    height:500px;
+    
+    
+}
+/* css navbar */
+/* Add a black background color to the top navigation */
+.topnav {
+    
+    overflow: hidden;
+    height: 130px;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    
+    color: black;
+  }
+
+  /* end nav bar */
+  .B{
+    text-align:center; 
+    position: relative;
+     display: inline-block;
+
+  }
+  
+  .text{
+    height: auto;
+    width: auto; 
+    float: left; 
+}
+.C{
+    height: 30px;
+    
+    color: white;
+    outline: none;
+    border: none;
+    background-color:red;
+    width:100%;
+}
+.D{
+    height: 400px;
+    
+    width:94%;
+    margin: auto;
+
+}
+.E{
+    height: 400px;
+    
+    width:50%;
+    float:right ;
+    
+}
+.F{
+    height: 400px;
+    
+    width:50%;
+    
+    
+}
+.G{
+height: 32px;
+width:18%
+}
+.H{
+    height: 120px;
+    width:100%;
+    
+}
+.I{
+    height: 350px;
+    width: 94%;
+    margin: auto;
+    
+}
+.J{
+    height: 350px;
+    float:right;
+    
+    width:32%;
+    border: 1px solid #dfe6e9;
+
+}
+.K{
+    height: 350px;
+    float: right;
+   
+    margin-left: -10px;
+    width:32%;
+    border: 1px solid #dfe6e9;
+
+}
+.L{
+    height: 350px;
+    
+    width:32%;
+    border: 1px solid #dfe6e9;
+
+}
+.M{
+    height: 350px;
+    
+    float: right;
+    width:1.9%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    padding-top: 40px;
+  }
+
+  .N{
+    height: 140px;
+    width:8%;
+    margin: auto;
+    
+  }
+  .but{
+    margin-top: 40px;
+   
+    background-color: black;
+    color: white;
+    height: 33px;
+    width:100%;
+    
+
+  }
+  .P{
+    height: 120px;
+    width:100%;
+    
+  }
+  .Q{
+    height: 270px;
+    width:94%;
+    margin: auto;
+    
+
+  }
+  .R{
+    float: right;
+    height: 250px;
+    width:30%;
+   
+
+  }
+  .S{
+    
+    height: 270px;
+    
+    width:70%;
+    
+
+  }
+  .imgo{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+  }
+  .sku{
+    background-color:black;
+    border: none;
+    height: 35px;
+   width: 12%;
+    color: white;
+  }
+  .T{
+    height: 100px;
+    width: 100%;
+    
+  }
+  .U{
+    height: 600px;
+    width: 100%;
+    
+    text-align:center; 
+    position: relative;
+     display: inline-block;
+  }
+  .V{
+    height: 400px;
+    width:94%;
+    margin: auto;
+    
+  }
+  .W{
+    float: right;
+    height: 400px;
+    width: 50%;
+   
+
+  }
+  .X{
+    height: 400px;
+    width: 50%;
+    
+
+  }
+  .inp{
+    outline: 0;
+    border-width: 0 0 3px;
+    border-color: blue;
+    height: 40px;
+    width: 96%;
+  }
+  .sty{
+    border: none;
+    height: 35px;
+    width: 11%;
+    background-color: red;
+    color: white;
+
+  }
+  .Y{
+    height: 100px;
+    width:94%;
+    margin: auto;
+    
+  }
+  .Z{
+    height: 300px;
+    width:94%;
+    margin: auto;
+    
+
+  }
+  .AA{
+    height: 300px;
+    float: right;
+    width:25%;
+    
+
+  }
+  .BB{
+    float: right;
+    height: 300px;
+    width:25%;
+    
+
+  }
+  .CC{
+    float: right    ;
+    height: 300px;
+    width:25%;
+    
+
+  }
+  .DD{
+    float: right;
+    height: 300px;
+    width:25%;
+   
+
+  }
+  .lig{
+    padding-left: 10px;
+  }
+  .sub{
+    height: 30px;
+    background-color: red;
+    width: 30%;
+  }
+
+  .zz{
+    height: 50px;
+    width: 94%;
+    margin: auto;
+    background-color: skyblue;
+  }
